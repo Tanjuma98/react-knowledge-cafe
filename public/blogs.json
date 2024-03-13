@@ -1,0 +1,53 @@
+[
+    {
+      "id": "123456",
+      "cover": "https://i.ibb.co/Js6T84B/2148430879.jpg",
+      "title": "The Enigma of Echoes",
+      "author": "Jessica L. Stern",
+      "author_img": "https://i.ibb.co/zRY2vT8/16602.jpg",
+      "posted_date": "March 13, 2024",
+      "reading_time": 12,
+      "hashtags": ["#Mystery", "#Thriller", "#Suspense"]
+    },
+    {
+      "id": "789012",
+      "cover": "https://i.ibb.co/vvcGVqg/nice-business-desk-black-background.jpg",
+      "title": "Beyond the Veil",
+      "author": "Alexander P. Hawthorne",
+      "author_img": "https://i.ibb.co/bPP1Vwh/blonde-young-businesswoman-writing-diary-with-pen-office.jpg",
+      "posted_date": "March 11, 2024",
+      "reading_time": 20,
+      "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+    },
+    {
+      "id": "345678",
+      "cover": "https://i.ibb.co/Js6T84B/2148430879.jpg",
+      "title": "Symphony of Shadows",
+      "author": "Victoria R. Drake",
+      "author_img": "https://i.ibb.co/zRY2vT8/16602.jpg",
+      "posted_date": "March 9, 2024",
+      "reading_time": 15,
+      "hashtags": ["#Horror", "#Supernatural", "#Gothic"]
+    },
+    {
+      "id": "901234",
+      "cover": "https://i.ibb.co/vvcGVqg/nice-business-desk-black-background.jpg",
+      "title": "Serenade of Stars",
+      "author": "Benjamin K. Fields",
+      "author_img": "https://i.ibb.co/bPP1Vwh/blonde-young-businesswoman-writing-diary-with-pen-office.jpg",
+      "posted_date": "March 7, 2024",
+      "reading_time": 18,
+      "hashtags": ["#ScienceFiction", "#SpaceOpera", "#Exploration"]
+    },
+    {
+      "id": "567890",
+      "cover": "https://i.ibb.co/Js6T84B/2148430879.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Cassandra M. Nightingale",
+      "author_img": "https://i.ibb.co/zRY2vT8/16602.jpg",
+      "posted_date": "March 5, 2024",
+      "reading_time": 25,
+      "hashtags": ["#Romance", "#HistoricalFiction", "#LoveStory"]
+    }
+  ]
+  
